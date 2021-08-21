@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="textView2">Vaccination Info</string>
+    <string name="textView3">Sri lanka</string>
+    <string name="para1">
+        You can book your Covid 19
+        vaccination and pcr
+        appoinments here.
+    </string>
+    <string name="btn1">Login</string>
+    <string name="btn2">Sign up</string>
+    <string name="loginButton">Login</string>
+    <string name="loginTxt">Login</string>
+    <string name="uName">Enter your user name</string>
+    <string name="pass">Enter your password</string>
+    <string name="signupTxt">Sign up here</string>
+    <string name="signupEmail">Enter your email</string>
+    <string name="signupUname">Enter your username</string>
+    <string name="signupPass">Enter a password</string>
+    <string name="signupButton">Sign up</string>
+    <string name="upButton">Edit profile</string>
+    <string name="covidButton">Appointment for vaccine</string>
+    <string name="pcrButton">Appointment for pcr</string>
+    <string name="signoutButton">signout</string>
+    <string name="reportsViewButton">"Click here to view your reports "</string>
+    <string name="teportVButton">View your reports</string>
+    <string name="reviewButton">Complains and Reviews</string>
+    <string name="reprtViewButton">View your appointments</string>
+    <string name="editHeader">Edit your profile here</string>
+    <string name="updateName">Update username</string>
+    <string name="updateEmail">update Email</string>
+    <string name="updatePassword">Update password</string>
+    <string name="updateButton">update details</string>
+    <string name="SuccessfullMessage">Successfully updated!!!</string>
+    <string name="gobackButton">Go to home</string>
+    <string name="updateUnsuccess">Update unsuccessfull</string>
+    <string name="tryagainButton">Try again</string>
+    <string name="hospitalName">"True-Life Care Hospital "</string>
+    <string name="hosName">True-Life Care Hospital</string>
+</resources>

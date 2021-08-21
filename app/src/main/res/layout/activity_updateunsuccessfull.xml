@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mad"
+    tools:context=".Updateunsuccessfull">
+
+    <TextView
+        android:id="@+id/updateUnsuccess"
+        android:layout_width="287dp"
+        android:layout_height="115dp"
+        android:layout_marginTop="288dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/updateUnsuccess"
+        android:textSize="42sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.419"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/tryagainButton"
+        android:layout_width="158dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="48dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/tryagainButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/updateUnsuccess" />
+</androidx.constraintlayout.widget.ConstraintLayout>
